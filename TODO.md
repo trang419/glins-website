@@ -1,0 +1,3 @@
+- connect the website with glins_gui:access rights, folder, database, etc
+- set up lab server to host the website + glins_gui: security issue, acess rights
+- maintenance strategy
